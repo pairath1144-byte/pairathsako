@@ -1,5 +1,5 @@
-const SHEET_ID = '1-ngmJm5RoUrayIsVpMVj_4dYPcEX1ZevhT-05wBrddE';
-const SHEET_NAME = 'Supervision';
+const SHEET_ID = 'spreadsheets/d/1wEUNY71YMwBVi-9LbrFm-IHKjJHrtIuEBqxUylAR7-4';
+const SHEET_NAME = 'ชีต1';
 
 function setupSheet() {
   const ss = SpreadsheetApp.openById(SHEET_ID);
