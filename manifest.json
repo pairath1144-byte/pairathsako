@@ -1,0 +1,18 @@
+{
+  "name": "ระบบนิเทศออนไลน์ โรงเรียนบ้านสากอ",
+  "short_name": "นิเทศบ้านสากอ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef4ff",
+  "theme_color": "#003b87",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
